@@ -4,6 +4,7 @@
 
 # Model 
 
+```mermaid
 graph TD
     A[Input query] --> B
     Z[Chat history] --> B
@@ -20,3 +21,4 @@ graph TD
     G --> H[LLM]
     H --> I[Answer]
     end
+```
