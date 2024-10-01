@@ -25,9 +25,12 @@ RAG(Gemma 9b) and user defined character traits
 
 
 
-## September 2 - September 15:
+## September 2 - September 22:
 
 Apply Finetuning techniques and model compression to the current selected model
+
+* research on different fine tuning techniques and compare the difference
+* model compression(quantization) seems trivial
 
 
 
